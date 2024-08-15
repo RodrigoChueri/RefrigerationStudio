@@ -1,0 +1,93 @@
+[ AutoCAD - Fri May 17 03:46:53 2024  ]----------------------------------------
+
+                  LWPOLYLINE  Layer: "0"
+                            Space: Model space
+                   Handle = 23a
+              Open 
+    Constant width    0.0000
+              area   82.2347
+            length   38.8463 
+
+          at point  X=  14.4509  Y=  18.5616  Z=   0.0000
+          at point  X=  12.6007  Y=  10.9951  Z=   0.0000
+          at point  X=  25.3243  Y=  14.7783  Z=   0.0000
+          at point  X=  24.2711  Y=  22.0603  Z=   0.0000
+          at point  X=  14.4509  Y=  18.5616  Z=   0.0000
+
+                  LINE      Layer: "0"
+                            Space: Model space
+                   Handle = 243
+              from point, X=  30.9888  Y=  18.5616  Z=   0.0000
+                to point, X=  32.3266  Y=  10.7391  Z=   0.0000
+          Length =   7.9360,  Angle in XY Plane =    280
+                  Delta X =   1.3378, Delta Y =   -7.8225, Delta Z =   0.0000
+
+                  LINE      Layer: "0"
+                            Space: Model space
+                   Handle = 244
+              from point, X=  32.3266  Y=  10.7391  Z=   0.0000
+                to point, X=  40.6383  Y=  14.3232  Z=   0.0000
+          Length =   9.0515,  Angle in XY Plane =     23
+                  Delta X =   8.3117, Delta Y =    3.5841, Delta Z =   0.0000
+
+                  LINE      Layer: "0"
+                            Space: Model space
+                   Handle = 245
+              from point, X=  40.6383  Y=  14.3232  Z=   0.0000
+                to point, X=  30.9888  Y=  18.5616  Z=   0.0000
+          Length =  10.5393,  Angle in XY Plane =    156
+                  Delta X =  -9.6495, Delta Y =    4.2383, Delta Z =   0.0000
+
+                  LWPOLYLINE  Layer: "0"
+                            Space: Model space
+                   Handle = 246
+            Closed 
+    Constant width    0.0000
+              area   29.8773
+         perimeter   22.5382 
+
+          at point  X=  17.6958  Y=   9.4306  Z=   0.0000
+          at point  X=  24.6981  Y=   9.4306  Z=   0.0000
+          at point  X=  24.6981  Y=   5.1638  Z=   0.0000
+          at point  X=  17.6958  Y=   5.1638  Z=   0.0000
+[ AutoCAD - Fri May 17 05:35:19 2024  ]----------------------------------------
+
+                  LINE      Layer: "0"
+                            Space: Model space
+                   Handle = 25a
+              from point, X=  17.2966  Y=  17.4821  Z=   0.0000
+                to point, X=  30.0782  Y=   8.1797  Z=   0.0000
+          Length =  15.8084,  Angle in XY Plane =    324
+                  Delta X =  12.7816, Delta Y =   -9.3024, Delta Z =   0.0000
+
+                  LINE      Layer: "0"
+                            Space: Model space
+                   Handle = 25b
+              from point, X=  30.0782  Y=   8.1797  Z=   0.0000
+                to point, X=  27.5447  Y=  18.0511  Z=   0.0000
+          Length =  10.1913,  Angle in XY Plane =    104
+                  Delta X =  -2.5336, Delta Y =    9.8713, Delta Z =   0.0000
+
+                  LINE      Layer: "0"
+                            Space: Model space
+                   Handle = 25c
+              from point, X=  27.5447  Y=  18.0511  Z=   0.0000
+                to point, X=  17.2966  Y=  17.4821  Z=   0.0000
+          Length =  10.2639,  Angle in XY Plane =    183
+                  Delta X = -10.2481, Delta Y =   -0.5690, Delta Z =   0.0000
+
+                  LINE      Layer: "0"
+                            Space: Model space
+                   Handle = 25d
+              from point, X=  27.5447  Y=  18.0511  Z=   0.0000
+                to point, X=  36.6256  Y=  13.6701  Z=   0.0000
+          Length =  10.0825,  Angle in XY Plane =    334
+                  Delta X =   9.0809, Delta Y =   -4.3809, Delta Z =   0.0000
+
+                  LINE      Layer: "0"
+                            Space: Model space
+                   Handle = 25e
+              from point, X=  36.6256  Y=  13.6701  Z=   0.0000
+                to point, X=  30.0782  Y=   8.1797  Z=   0.0000
+          Length =   8.5447,  Angle in XY Plane =    220
+                  Delta X =  -6.5474, Delta Y =   -5.4904, Delta Z =   0.0000

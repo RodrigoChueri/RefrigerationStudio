@@ -1,0 +1,3 @@
+darktheme=False
+debug=True
+lang=pt

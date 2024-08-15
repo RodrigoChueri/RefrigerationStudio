@@ -1,0 +1,19 @@
+#computador estimado através do cap 18 asharae
+Desktop Alto Consumo + Monitor=200,computador
+Mesa Médio Consumo + Monitor=140,computador
+Mesa Baixo Consumo + Monitor=95,computador
+Laptop=60,computador
+
+#iluminação https://ourolux.com.br/blog/post/lumens-e-watts/
+Incandescente 40W=40,iluminação
+Incandescente 60W=60,iluminação
+Incandescente 75W=75,iluminação
+Incandescente 100W=100,iluminação
+Fluorescente 10W=10,iluminação
+Fluorescente 15W=15,iluminação
+Fluorescente 20W=20,iluminação
+Fluorescente 25W=25,iluminação
+LED 6W=6,iluminação
+LED 9W=9,iluminação
+LED 12W=12,iluminação
+LED 18W=18,iluminação

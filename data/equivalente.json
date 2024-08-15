@@ -1,0 +1,23 @@
+{
+    "hvac":{
+        "en":{
+            "window":"janela",
+            "door":"porta",
+            "Window":"Janela",
+            "Door":"Porta",
+            "inverter (ideal control)": "inverter (controle ideal)",
+            "inverter (proportional control)": "inverter (controle proporcional)", 
+            "normal split (on-off)": "normal split (on-off)"
+
+        },
+        "pt":{
+            "janela":"window",
+            "porta":"door",
+            "Janela":"Window",
+            "Porta":"Door",
+            "inverter (controle ideal)":"inverter (ideal control)",
+            "inverter (controle proporcional)":"inverter (proportional control)", 
+            "normal split (on-off)":"normal split (on-off)"        
+        }
+    }
+}

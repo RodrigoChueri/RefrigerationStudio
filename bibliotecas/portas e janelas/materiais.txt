@@ -1,0 +1,21 @@
+# list ade materiais construtivos
+# use o '#' para comentarios
+# estrutura 
+# janelas devem ser indicadas com J e portas com P
+# estrutura: tipo, nome, SHGC, cor, h, h1, h2, k, U, comentarios, excluivel
+# J (janela), P (porta), SHGC (usar ponto dividindo ponto flutuante), cor ('Claro', 'Medio' ou 'Escuro')
+# caso use a grandeza U não usar os dados k, h1, h2
+# excluivel: True pode ser removido direto pelo software, False só removivel pelo arquivo da biblioteca de materiais
+
+
+#janela padrão
+janela simples = tipo:J, comentarios: janela padrao do software, h:8, SHGC:0.86, espessura:0.3, U:0.5, altura:120, largura:120
+
+
+
+# dados do site https://www.twc-net.com/blog/2022/post-684.html
+porta aluminio = tipo:P, comentarios: porta de aluminio s/ revestimento, h:8, cor: Claro, k:240, espessura:3, altura:210, largura:82
+porta ferro = tipo:P, comentarios: porta de ferro s/ revestimento, h:8, cor: Claro, k:50, espessura:3, altura:210, largura:82
+#dados do site https://techblog.ctgclean.com/2016/05/thermal-insulators/
+porta aço/ferro carbono 1%= tipo:P, comentarios: porta de ferro/aço s/ revestimento, h:8, cor: Claro, k:43, espessura:3, altura:210, largura:82
+porta madeira= tipo:P, comentarios: porta de madeira s/ revestimento, h:8, cor: Claro, k:0.15, espessura:3, altura:210, largura:82

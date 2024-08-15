@@ -1,0 +1,8 @@
+casa=1
+escritório=2.5
+quarto hotel=1.5
+loja=2.5
+escola=5.5
+ambiente esportivo=6
+restaurante=7
+quarto de hospital=5

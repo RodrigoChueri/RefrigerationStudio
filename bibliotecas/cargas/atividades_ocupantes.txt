@@ -1,0 +1,6 @@
+ASHRAE - Dormindo=40
+NBR16401 - Sentado, trabalho Leve (escritório/hotel/apartamento)=115
+NBR16401 - Trabalho Moderado (escritório/hotel/apartamento)=130
+Trabalho Leve (fábrica)=220
+NBR16401 - Trabalho Pesado (fábrica)=425
+NBR16401 - Praticando Esportes (ginásio/academia)[525

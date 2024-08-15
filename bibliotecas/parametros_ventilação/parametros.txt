@@ -1,0 +1,10 @@
+@escritórios
+escritório=2.5,0.3
+@Correcional
+cela=2.5,0.6
+@Educacional
+creche=5,0.9
+sala de aula (5 a 8 anos)=5,0.6
+sala de aula (9 ou mais anos)=5,0.6
+laboratorio de computação=5,0.6
+auditório (para aulas)=3.8,0.3

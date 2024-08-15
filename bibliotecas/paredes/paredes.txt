@@ -1,0 +1,12 @@
+#espessura,k,cor
+@paredes_internas
+alvenaria 9cm =0.09,0.75,Medio
+alvenaria 15cm=0.15,0.75,Medio
+@paredes_externas
+parede alvenaria 14cm=0.14,0.75,Medio
+parede alvenaria 24cm=0.24,0.75,Medio
+
+@divisorias
+padrao=0.24,0.75,Medio
+@interfaces_horizontais
+padrao=0.2,0.75,Medio
